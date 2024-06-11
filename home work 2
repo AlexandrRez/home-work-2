@@ -1,0 +1,5 @@
+name = 'Python'
+all_tasks = 12
+all_hourse = 1.5
+average_number_of_hourse=0.125
+print('Курс:',name, ',всего задач:',all_tasks,'затрачено часов:', all_hourse, 'среднее время выполнения',average_number_of_hourse)
